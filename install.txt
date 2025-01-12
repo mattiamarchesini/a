@@ -1,0 +1,2 @@
+pacstrap -K /mnt base base-devel bash-completion git curl wget amd-ucode man-db man-pages texinfo networkmanager openssh nano
+arch-chroot /mnt /bin/bash
